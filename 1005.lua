@@ -1,0 +1,2 @@
+local a,b = io.read("n","n")
+print(string.format("MEDIA = %.5f",(a*3.5+b*7.5)/11))
